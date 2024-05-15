@@ -1,0 +1,11 @@
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\bin\Debug\bancoDeDados.exe.config
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\bin\Debug\bancoDeDados.exe
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\bin\Debug\bancoDeDados.pdb
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.Form1.resources
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.Properties.Resources.resources
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.csproj.GenerateResource.cache
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.csproj.CopyComplete
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.exe
+C:\Users\aluno_lab4\source\repos\140524\bancoDeDados\obj\Debug\bancoDeDados.pdb
